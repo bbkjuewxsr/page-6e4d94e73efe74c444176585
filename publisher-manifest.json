@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f25efa96e840a0c137d3a366",
+  "owner": "bbkjuewxsr",
+  "repo": "page-6e4d94e73efe74c444176585",
+  "title": "爱探索",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6e4d94e73efe74c444176585",
+      "a": "爱探索",
+      "b": "",
+      "entity": "爱探索",
+      "brand": "爱探索",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ed1c0e063c8ee179f236870a71633aa4de03bb8a801a06f33a07800843c85087",
+      "content": {
+        "keyword1": "爱探索",
+        "keyword2": "",
+        "primary_entity": "爱探索",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "爱探索官方网站提供稳定高速的VPN与机场订阅服务，支持多平台客户端下载，适用于流媒体解锁、游戏加速与跨境网络访问。",
+          "AI_DESCRIPTION": "爱探索官方网站提供稳定高速的VPN与机场订阅服务，支持多平台客户端下载，适用于流媒体解锁、游戏加速与跨境网络访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.65;overflow-x:hidden}header,footer{background:#ffffff}header{border-bottom:1px solid #e5e7eb;padding:12px 16px}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:12px;align-items:center}nav a{color:#5b21b6;text-decoration:none;font-weight:600;font-size:14px}.brand{font-size:18px;color:#4c1d95;margin-right:auto}main{padding:8px 0 40px}h1{font-size:1.7rem;line-height:1.3;color:#4c1d95;margin:20px 0 12px}h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.1rem;color:#6d28d9;margin:16px 0 8px}p{margin:0 0 12px}.lead{font-size:1.05rem;color:#374151}.section{margin:8px 0 24px;background:#fff;border-radius:10px;padding:20px 16px;border:1px solid #e5e7eb}.zig{display:flex;flex-direction:column;gap:16px}@media(min-width:720px){.zig{flex-direction:row;align-items:flex-start}.zig.rev{flex-direction:row-reverse}.zig>div{flex:1;min-width:0}h1{font-size:2rem}}.plans{display:flex;flex-direction:column;gap:16px}@media(min-width:800px){.plans{flex-direction:row;align-items:stretch}}.plan{flex:1;background:#fafafa;border:1px solid #e5e7eb;border-radius:10px;padding:16px;min-width:0}.plan.feat{background:#f5f3ff;border:2px solid #7c3aed}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.5rem;font-weight:700;color:#4c1d95;margin:8px 0}.annual{font-size:14px;color:#6b7280}.plan ul{margin:8px 0 0;padding-left:18px}.plan li{margin:6px 0}.cta{display:inline-block;margin-top:12px;margin-right:8px;background:#7c3aed;color:#fff;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600}.cta.alt{background:#4c1d95}.muted{color:#4b5563;font-size:14px}.steps{padding-left:20px}.steps li{margin:8px 0}details{background:#fafafa;border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#4c1d95}details p{margin:8px 0 0;color:#374151}footer{border-top:1px solid #e5e7eb;padding:24px 16px;font-size:14px;color:#4b5563}.links{display:flex;flex-wrap:wrap;gap:10px 16px;margin:8px 0 16px}.links a{color:#6d28d9;text-decoration:none}.adslot{background:#ede9fe;border:1px dashed #c4b5fd;border-radius:8px;padding:12px;margin:16px 0;color:#5b21b6;text-align:center}ul.plain{margin:0;padding-left:18px}ul.plain li{margin:6px 0}</style><header><div class=\"wrap\"><nav><a class=\"brand\" href=\"#\">爱探索</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">教程</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap\"><h1>爱探索官方网站</h1><p class=\"lead\">爱探索VPN与机场订阅服务，为你提供稳定网络加速、流媒体解锁和多端客户端官方下载指引。</p><section class=\"section\" id=\"intro\"><h2>品牌简介</h2><div class=\"zig\"><div><p>爱探索是面向个人与团队的网络加速品牌，核心产品为机场订阅（爱探索机场）与配套客户端方案。我们整合全球优质线路，强调连接稳定、延迟可控与流媒体可用性，帮助用户提升跨境访问与日常加速体验。</p><p>无论你是需要观看海外影音、参加国际会议，还是为多人协作准备更高带宽节点，都可以在爱探索选择对应套餐。本站为爱探索官网信息页，集中展示套餐对比、使用场景、操作说明与客户端下载方式。</p></div><div><h3>服务要点</h3><ul class=\"plain\"><li>节点覆盖香港、日本、新加坡、美国、台湾及欧洲等方向</li><li>支持 Clash Meta、Surge、Shadowrocket、Stash 等主流客户端</li><li>订阅一键导入，节点列表随官网策略更新</li><li>旗舰线路含 IPLC 游戏向优化，晚高峰更稳</li><li>工单支持力度随套餐提升，团队版含专属客户经理</li></ul></div></div></section><section class=\"section\" id=\"plans\"><h2>套餐对比</h2><p>以下为爱探索当前公开套餐，便于对照流量、设备数与线路能力。旗舰版适合大多数需要流媒体与游戏加速的用户，团队版面向多设备与高流量场景。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">了解如何开通</a></div><div class=\"plan feat\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">了解如何开通</a></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">了解如何开通</a></div></div><p class=\"muted\">流量为套餐周期内可用额度；同时在线设备数按客户端授权计算。年付可减少续费次数，适合长期使用爱探索机场的用户。具体开通入口以爱探索官网账户中心为准。</p></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><div class=\"zig rev\"><div><h3>影音与流媒体</h3><p>旗舰版强调全节点原生流媒体解锁，适合需要稳定观看国际视频、直播与音乐服务的用户。基础版覆盖常用站点，团队版可把更高带宽分配给共享观影或下载。</p><h3>游戏与实时对战</h3><p>通过 IPLC 专线优化，降低到部分游戏服的延迟与丢包。对延迟敏感的玩家建议优先使用旗舰版或团队版中的游戏向节点，并在客户端内开启对应规则分组。</p></div><div><h3>跨境办公与学习</h3><p>访问国际协作工具、云盘、学术数据库与在线课程时，稳定的海外出口能减少中断。团队版支持更多设备与定制路由，方便工作室或实验室统一管理出口策略。</p><h3>多设备日常加速</h3><p>手机、电脑、平板可同时使用同一订阅（受套餐设备数限制）。爱探索客户端方案覆盖主流系统，导入一次订阅即可在各端切换节点，适合通勤与居家切换使用。</p></div></div></section><section class=\"section\" id=\"guide\"><h2>操作说明</h2><p>使用爱探索机场的一般流程如下：先在官网完成套餐开通，再在客户端导入订阅。无需命令行即可完成日常连接。</p><ol class=\"steps\"><li>在套餐对比中选定基础版、旗舰版或团队版，通过爱探索官网完成开通，并保存订阅链接或二维码。</li><li>打开本页「客户端下载」章节，按 Windows、macOS、Android、iOS 或 Linux 选择对应客户端类型。</li><li>安装完成后，在客户端中选择从 URL 导入订阅或扫描二维码，等待节点列表刷新。</li><li>按用途选择节点：日常浏览可选邻近地区，流媒体选择已解锁线路，游戏选择 IPLC 或低延迟游戏节点。</li><li>开启系统代理或 TUN 模式（视客户端而定），访问目标站点检测连通。若异常，切换节点或查阅常见问题。</li></ol><p>旗舰版与团队版用户如需优先支持，请通过官网工单提交问题并注明套餐类型，以便分流处理。</p></section><section class=\"section\" id=\"download\"><h2>客户端下载与订阅导入</h2><div class=\"zig\"><div><h3>桌面端</h3><p>Windows 与 macOS 推荐使用兼容 Clash Meta 内核的图形客户端，导入爱探索订阅后可按自动选择、流媒体、游戏等分组切换。Linux 可使用图形前端或命令行客户端，同样支持标准订阅格式。</p><p>请仅通过爱探索官网公布的下载指引获取安装包，避免来路不明的修改版导致订阅泄露或配置被篡改。</p></div><div><h3>移动端</h3><p>Android 可使用 Clash Meta 系应用；iOS 可使用 Shadowrocket、Stash 等支持订阅的客户端。导入方式与桌面端一致：粘贴订阅 URL 或使用二维码。首次连接时请确认系统对 VPN 配置的授权提示。</p><p class=\"muted\">本页提供官方使用与下载说明，不内嵌安装包。请前往爱探索官网下载中心获取与当前订阅协议匹配的版本。</p></div></div><p><a class=\"cta\" href=\"#\">前往官网下载中心</a><a class=\"cta alt\" href=\"#faq\">查看导入常见问题</a></p></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><details><summary>爱探索和爱探索机场、爱探索VPN是什么关系？</summary><p>爱探索是品牌名称。爱探索机场通常指订阅制节点服务，爱探索VPN则泛指配合客户端实现的加密代理加速能力。三者指向同一官方服务，可在本站了解套餐、场景与客户端下载方式。</p></details><details><summary>如何选择套餐才不容易浪费流量？</summary><p>轻度浏览与偶尔看视频可选基础版（每月 100GB、3 台设备）。经常使用流媒体或需要游戏加速建议旗舰版（每月 300GB、5 台设备、全节点解锁与 IPLC）。家庭或小团队多设备、大流量选团队版。确定会长用再考虑年付。</p></details><details><summary>客户端应该从哪里下载才更稳妥？</summary><p>请以爱探索官网下载中心与本页说明为准。不要轻信来路不明的安装包或代下链接。导入时只粘贴你在官网账户中看到的订阅地址，不要把订阅分享到公开群组。</p></details><details><summary>连接后无法观看某些视频平台怎么办？</summary><p>先确认套餐是否包含对应解锁：基础版为基础流媒体，旗舰版与团队版强调全节点原生解锁。然后切换至流媒体分组节点，关闭可能冲突的其他代理插件，并检查客户端规则模式是否为推荐配置。</p></details><details><summary>设备数超限或需要更多人一起用怎么处理？</summary><p>可升级到更高档套餐，或将长期不用的设备在客户端中退出并删除配置。团队版支持 20 台设备，并提供定制路由与专属客户经理，更适合工作室或实验室统一管理。</p></details><details><summary>节点延迟高或晚上比较卡如何改善？</summary><p>优先改用距离更近或标注 IPLC / 游戏的节点，避免高峰期挤在同一普通线路。旗舰版含游戏加速优化，团队版有 VIP 高带宽节点。也可在客户端开启自动测速，选择延迟较低的入口。</p></details><details><summary>怎样确认自己访问的是爱探索官方网站？</summary><p>请收藏本站并核对品牌名称「爱探索」。官方通过官网公示套餐、订阅与客户端指引。任何索要远控权限、不明转账或非官网下载的行为都不可信。本页同时提供套餐对比与操作说明，便于自行判断是否符合需求。</p></details></section><div class=\"adslot\" id=\"ads\">爱探索官方信息与下载指引。品牌合作与广告投放请通过官网公示渠道联系，谨防假冒客服。</div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>页面导航</p><div class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></div><p>友情链接</p><div class=\"links\"><a href=\"#\">爱探索官网首页</a><a href=\"#download\">官方下载</a><a href=\"#plans\">套餐说明</a><a href=\"#guide\">使用教程</a><a href=\"#faq\">帮助中心</a></div><p>广告与声明：本站为爱探索品牌展示与使用说明页。使用网络加速服务时请遵守所在地法律法规以及目标网站条款。</p><p>© 爱探索 官方网站</p></div></footer>",
+          "hash": "fa34a7fda0bb5a5b7d0b2722ffeee9cba7c88f3368ea261db3036914ce561945",
+          "seo": {
+            "title": "爱探索官网 | VPN机场订阅与网络加速器客户端下载",
+            "keywords": "爱探索,爱探索VPN,爱探索机场,爱探索官网,网络加速,加速器,梯子,客户端下载,机场订阅,官方下载",
+            "description": "爱探索官方网站提供稳定高速的VPN与机场订阅服务，支持多平台客户端下载，适用于流媒体解锁、游戏加速与跨境网络访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinzhu-edu.cn",
+    "host": "p-f936ab70af.xinzhu-edu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aibycoi.cn",
+      "url": "https://aibycoi.cn/",
+      "label": "爱探索",
+      "apex": "aibycoi.cn",
+      "kind": null,
+      "identity": "fkugcv/page-5bc99e96a70c6fff0502aef8"
+    },
+    {
+      "host": "jfggsc.cn",
+      "url": "https://jfggsc.cn/",
+      "label": "爱探索",
+      "apex": "jfggsc.cn",
+      "kind": null,
+      "identity": "mp4svvry5/page-11f82216d080125ae7ca2efa"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5805c9174936a768e2e4df8eb35331f8f14a2a29785f296759c29933b3a35078",
+    "sitemap.xml": "a44971183bfd92ef2a0d9411787c044fd89583b7bee7d6b24ac751ae611096ff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8343e1a0cca4546641ca87ceed567f2d30a5c53a56399bce948d7f73d55c2d9",
+    "robots.txt": "b771303bb2d7e65539c54abcec2699f1bd90de47bbe82600f3bae712c5b77d6c",
+    "709389fa033a9ecef68e53dacc4859fc.txt": "3ee5cea9145fea53f046353479a6640b24c7d8ea6d3e65de648d76567190b9a9"
+  },
+  "revision": "c65fe7896fd9e1ac20d68c3378902caf174dc52842a772b9c2687f982da0b8fd"
+}
